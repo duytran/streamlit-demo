@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+seaborn
+plotly
+bokeh==2.4.3
+pydeck
+scikit-learn
